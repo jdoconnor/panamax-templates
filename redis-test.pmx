@@ -1,0 +1,10 @@
+---
+name: redis-test
+description: redis testing
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: redis_latest
+  source: redis:latest
+  type: Default
